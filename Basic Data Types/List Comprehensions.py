@@ -1,4 +1,4 @@
-#Language : Python 3
+#Language: Python 3
 #List Comprehensions
 if __name__ == '__main__':
     x = int(input())
